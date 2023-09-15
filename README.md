@@ -33,7 +33,7 @@ To run the Twitter Clone app locally, follow below given steps:
 6. Start the client:</br>
 ✔️ npm start
 
-## Screenshots
+## Actual View
 
 ✔️ Deployed View / Login Page
 </br>
