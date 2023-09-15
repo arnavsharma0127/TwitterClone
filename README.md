@@ -14,28 +14,28 @@ Twitter clone built using the MERN (MongoDB, Express, React, Node.js) stack.
 
 To run the Twitter Clone app locally, follow below given steps:
 
-1. Install server dependencies: <br>
-✔️ cd server
+1. Install server dependencies: </br>
+✔️ cd server</br>
 ✔️ npm install
 
-2. Start the server:<br>
+2. Start the server:</br>
 ✔️ npm start
 
-3. Open a new terminal window, navigate to the client directory, and install client dependencies:<br>
-✔️ cd ../client
+3. Open a new terminal window, navigate to the client directory, and install client dependencies:</br>
+✔️ cd ../client</br>
 ✔️ npm install
 
-4. Install firebase<br>
+4. Install firebase</br>
 ✔️ npm install firebase
 
-5. Create a file named firebase.js in the client/src directory and add the Firebase configuration details.<br>
+5. Create a file named firebase.js in the client/src directory and add the Firebase configuration details.</br>
 
-6. Start the client:<br>
+6. Start the client:</br>
 ✔️ npm start
 
 ## Screenshots
 
-✔️ Deployed View / Login Page<br>
+✔️ Deployed View / Login Page</br>
 
 ![](Twitter/Deployed.png)
 
@@ -51,3 +51,6 @@ To run the Twitter Clone app locally, follow below given steps:
 
 ![](Twitter/Explore.png)
 
+</br>
+
+ ## ![Deployed Link](https://arnav-twitter.netlify.app/)
