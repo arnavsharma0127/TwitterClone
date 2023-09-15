@@ -1,4 +1,4 @@
-# Twitter Clone App Using MERN
+# Twitter Clone App Using MERN  ✔️ [Deployed Link](https://arnav-twitter.netlify.app/)
 
 Twitter clone built using the MERN (MongoDB, Express, React, Node.js) stack. 
 
@@ -57,4 +57,4 @@ To run the Twitter Clone app locally, follow below given steps:
 
 </br>
 
- ## ✔️ [Deployed Link](https://arnav-twitter.netlify.app/)
+ ## 
