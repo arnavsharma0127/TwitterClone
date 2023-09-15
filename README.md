@@ -35,22 +35,26 @@ To run the Twitter Clone app locally, follow below given steps:
 
 ## Screenshots
 
-✔️ Deployed View / Login Page</br>
+✔️ Deployed View / Login Page
+</br>
 
 ![](Twitter/Deployed.png)
 
-✔️ Home<br>
+✔️ Home
+<br>
 
 ![](Twitter/Home.png)
 
-✔️ Profile<br>
+✔️ Profile
+<br>
 
 ![](Twitter/Profile.png)
 
-✔️ Explore<br>
+✔️ Explore
+<br>
 
 ![](Twitter/Explore.png)
 
 </br>
 
- ## ![Deployed Link](https://arnav-twitter.netlify.app/)
+ ## ✔️ [Deployed Link](https://arnav-twitter.netlify.app/)
