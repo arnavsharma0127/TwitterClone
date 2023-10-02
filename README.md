@@ -5,7 +5,7 @@ Twitter clone built using the MERN (MongoDB, Express, React, Node.js) stack.
 ## Mandatory
 
  Install the following softwares and set up on your machine:
-
+    
 - Node.js: Download and install Node.js from https://nodejs.org/.
 - MongoDB: Install and configure MongoDB. You can get it from https://www.mongodb.com/.
 - Firebase: Set up a Firebase project and obtain your Firebase configuration details. You can do this by visiting https://firebase.google.com/ and following their documentation.
