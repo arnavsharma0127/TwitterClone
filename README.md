@@ -3,7 +3,7 @@
 Twitter clone built using the MERN (MongoDB, Express, React, Node.js) stack. 
 
 ## Mandatory
-
+   
  Install the following softwares and set up on your machine:
     
 - Node.js: Download and install Node.js from https://nodejs.org/.
