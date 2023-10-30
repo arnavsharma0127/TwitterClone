@@ -11,7 +11,7 @@ const TweetSchema = new mongoose.Schema(
       required: true,
       max: 280,
     },
-    likes: {
+    likes: {   
       type: Array,
       defaultValue: [],
     },
