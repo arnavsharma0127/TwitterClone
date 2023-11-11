@@ -10,7 +10,7 @@ Twitter clone built using the MERN (MongoDB, Express, React, Node.js) stack.
 - MongoDB: Install and configure MongoDB. You can get it from https://www.mongodb.com/.
 - Firebase: Set up a Firebase project and obtain your Firebase configuration details. You can do this by visiting https://firebase.google.com/ and following their documentation.
 
-## Begin 
+## Begin    
 
 To run the Twitter Clone app locally, follow below given steps:
 
