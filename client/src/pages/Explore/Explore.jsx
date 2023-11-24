@@ -11,7 +11,7 @@ const Explore = () => {
 
   return (
     <>
-      {!currentUser ? (
+      {!currentUser ? (   
         <Signin />
       ) : (
         <div className="grid grid-cols-1 md:grid-cols-4">
